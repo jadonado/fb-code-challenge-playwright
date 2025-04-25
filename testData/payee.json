@@ -1,0 +1,12 @@
+{
+    "payee": {
+        "name": "Anna Lee",
+        "address": "123 Test St",
+        "city": "Test City",
+        "state": "Test State",
+        "zipCode": "12345",
+        "phone": "123-456-7890",
+        "accountNumber": "123456789",
+        "amount": "100.00"
+    }
+}

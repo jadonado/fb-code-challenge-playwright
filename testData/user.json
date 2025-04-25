@@ -1,0 +1,14 @@
+{
+    "user": {
+        "firstName": "John",
+        "lastName": "Smith",
+        "address": "123 Test St",
+        "city": "Test City",
+        "state": "Test State",
+        "zipCode": "12345",
+        "phone": "123-456-7890",
+        "ssn": "123-45-6789",
+        "userName": "pumpkin",
+        "password": "sunset123"
+    }
+}
