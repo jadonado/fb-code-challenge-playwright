@@ -15,7 +15,4 @@
 
 ## How to Run
 
-1. Install dependencies:
-   npm install
-2. Run all tests:
-   npx playwright test
+Run/Double Click - **playwright_run_tests.bat** file
