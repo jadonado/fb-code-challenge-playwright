@@ -15,4 +15,5 @@
 
 ## How to Run
 
-Run/Double Click - **playwright_run_tests.bat** file
+1. Install node.js (version 18.20.8 or higher)
+2. Run/Double Click - **playwright_run_tests.bat** file

@@ -3,4 +3,5 @@
 ::######################################
 
 cmd /c "npm install"
+cmd /c "npx playwright install"
 cmd /c "npx playwright test"
